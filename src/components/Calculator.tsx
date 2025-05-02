@@ -15,7 +15,7 @@ export default function Calculator() {
 
   return (
     <div className="calculator">
-      <p>
+      <p>Item info:
         <input
           type="text"
           id="value"
